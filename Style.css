@@ -24,3 +24,8 @@ main {
     padding: 44px 24px 23px;
 }
 
+label {
+    color: #777777;
+    font-weight: 400;
+    font-size: 14px;
+}
