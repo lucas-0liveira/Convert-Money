@@ -43,3 +43,14 @@ select, input {
     color: #555555;
     cursor: pointer;
 }
+
+button {
+    background: #772FD3;
+    border-radius: 5px;
+    width: 100%;
+    border: none;
+    height: 48px;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 18px;
+}
