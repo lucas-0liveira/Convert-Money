@@ -55,3 +55,6 @@ button {
     font-size: 18px;
 }
 
+button:hover{
+    opacity: 0.8;
+}
