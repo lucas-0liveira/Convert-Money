@@ -92,3 +92,9 @@ section {
     align-items: center;
     gap: 4px;
 }
+
+.currency {
+    color: #777777;
+    font-size: 14px;
+    text-align: center;
+}
