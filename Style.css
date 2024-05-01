@@ -99,4 +99,9 @@ section {
     text-align: center;
 }
 
-''
+.currency-value, .currency-value-to-convert {
+    color: #555555;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
